@@ -3,7 +3,6 @@
 # Needs a dictionary file, suggested to use https://github.com/danielmiessler/SecLists/tree/master/Passwords/Common-Credentials
 # By Alex Lee 07/25/23
 
-#import crypt
 import crypt
 import os
 
